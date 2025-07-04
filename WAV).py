@@ -1,0 +1,5 @@
+Дыбыс (WAV) 
+ → Фича алу (MFCC)
+ → Модель (RNN, CNN, немесе Transformer)
+ → Декодтау (CTC decoding немесе Argmax)
+ → Мәтін (output)
